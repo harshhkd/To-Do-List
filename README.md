@@ -1,6 +1,6 @@
 # 📝 To-Do List Application
+![Screenshot 2025-03-16 221923](https://github.com/user-attachments/assets/a1f2ded0-66dc-41ea-8a1b-45d0dec834c0)
 
-![To-Do List Preview](images/todo-preview.png)
 
 ## 🌟 Overview  
 This is a **simple and elegant To-Do List application** that allows users to add tasks, mark them as done, and remove them. The tasks **persist even after refreshing the page** using **browser local storage**.
@@ -54,8 +54,6 @@ This is a **simple and elegant To-Do List application** that allows users to add
 
 ---
 
-## 📸 Screenshot  
-![To-Do List UI](images/todo-preview.png)
 
 ---
 
